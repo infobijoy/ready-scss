@@ -1,4 +1,4 @@
 # ready-scss
-<h3>Command on terminal </h3>
+<h3>Command on terminal for run this project on [locallhost] http://localhost:5173 </h3>
 
 ### `npm run dev`
